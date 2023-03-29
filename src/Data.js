@@ -1,4 +1,4 @@
-const work = [
+let work = [
     {
         id: 1,
         title:"Mount Fuji",
